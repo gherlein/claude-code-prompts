@@ -1,11 +1,11 @@
 {
-  "includeCoAuthoredBy": false,
   "env": {
     "DISABLE_BUG_COMMAND": "1",
     "DISABLE_ERROR_REPORTING": "1",
     "DISABLE_NON_ESSENTIAL_MODEL_CALLS": "1",
     "DISABLE_TELEMETRY": "1"
   },
+  "includeCoAuthoredBy": false,
   "permissions": {
     "allow": [
       "Bash(cat:*)",
@@ -27,7 +27,6 @@
       "Bash(git restore:*)",
       "Bash(git rev-parse:*)",
       "Bash(git rm:*)",
-      "Bash(git test:*)",
       "Bash(grep:*)",
       "Bash(just precommit)",
       "Bash(just --list)",
