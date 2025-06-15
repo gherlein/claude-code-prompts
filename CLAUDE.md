@@ -4,10 +4,6 @@
 
 @instructions/code-style.md
 
-## 📝 Git Commits
-
-@instructions/git-commits.md
-
 ## 🧪 Tests
 
 @instructions/tests.md
