@@ -69,7 +69,6 @@
       "Bash(npx vite-node:*)",
       "Bash(op vault list:*)",
       "Bash(rg:*)",
-      "Bash(rm:*)",
       "Bash(sed:*)",
       "Bash(test:*)",
       "Bash(true)",
