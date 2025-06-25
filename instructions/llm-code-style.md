@@ -8,3 +8,6 @@
 - Don't add comments that emphasize different versions of the code, like "this code now handles"
 - Do not use end-of-line comments
   - Place comments above the code they describe
+- Prefer editing an existing file to creating a new one.
+- Never create documentation files (`*.md` or README).
+  - Only create documentation files if explicitly requested by the user.
