@@ -17,7 +17,6 @@
 - Commit messages should not include a Claude attribution footer
   - Don't write: 🤖 Generated with [Claude Code](https://claude.ai/code)
   - Don't write: Co-Authored-By: Claude <noreply@anthropic.com>
-  - But still include the 🤖 emoji as the very first character.
 - Echo exactly this: Ready to commit: `git commit --message "<message>"`
 - Confirm with the user, and then run the exact same command
 - If pre-commit hooks fail, then there are now local changes
